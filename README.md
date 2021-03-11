@@ -33,12 +33,16 @@ As part of my Udacity Nanodegree in Data Science, the project aimed at understan
 </p>
 The average customers' ratings for Riyadh's hotels are as the figure table. Also, as anticipated, as the star rating increases, the customers rating increases too.
 
+<br></br>
+
 * __Question 2:__
 
 <p align="center">
 <img src="https://github.com/OrjwanZaafarani/Data_Science_Nanodegree_Project_1/blob/main/Q2.png" width="400">
 </p>
 The value 0.44 suggest a weak positive correlation between the customers' ratings and the hotels' prices. On the other hand, as expected, the star rating moderately relate to the prices.
+
+<br></br>
 
 * __Question 3:__
 
