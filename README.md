@@ -49,7 +49,7 @@ The value 0.44 suggest a weak positive correlation between the customers' rating
 <p align="center">
 <img src="https://github.com/OrjwanZaafarani/Data_Science_Nanodegree_Project_1/blob/main/img3.png" width="1000">
 </p>
-As the numbers suggest, __Dhahran__ culminated among the rest. On the other hand, the following cities were the worst:
+As the numbers suggest, Dhahran culminated among the rest. On the other hand, the following cities were the worst:
 
 1. Hotat Bani Tamim
 2. King Abdullah Economic City
