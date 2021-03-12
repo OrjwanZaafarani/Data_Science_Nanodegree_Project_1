@@ -5,7 +5,8 @@
 2. [Motivation](#motivation)
 3. [Files' Descriptions](#description)
 4. [Results](#results)
-5. [Licensing, Authors and Acknowledgment](#license)
+5. [Blog Post](#post)
+6. [Licensing, Authors and Acknowledgment](#license)
 
 ## Installation <a name="installation"></a>
 
@@ -56,6 +57,9 @@ As the numbers suggest, Dhahran culminated among the rest. On the other hand, th
 3. Unayzah
 4. Half Moon Bay
 5. Al Bukayriyah
+
+## Blog Post <a name="post"></a>
+Please find Medium's blog post [here](https://medium.com/@orjwan.zaafarani/3-questions-you-should-ask-yourself-before-your-low-budget-visit-to-saudi-arabia-1a7198612c76). 
 
 ## Licensing, Authors and Acknowledgment <a name="license"></a>
 All data was retrieved from Kaggle. You can find the dataset [here](https://www.kaggle.com/moayadmagadmi/saudi-arabia-bookingcom).
